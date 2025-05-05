@@ -20,6 +20,9 @@ To provide a decentralized, transparent, and tamper-proof way of managing digita
 
 - Contract Address: CAINGJTLHT3HGPR76CMDI54OT4C5ME6IH72YSIXNCIM2U6OVKKME7K2H
 
+- ![Screenshot (84)](https://github.com/user-attachments/assets/ab4cdd5d-f09d-4be3-ae06-de435556561a)
+
+
 - `register_content(owner: Address, title: String, uri: String) -> u64`  
   Registers new content and assigns a unique content ID.
 
