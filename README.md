@@ -1,4 +1,3 @@
-
 # Basic Digital Rights Management
 
 ## Project Description
